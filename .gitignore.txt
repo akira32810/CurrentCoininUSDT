@@ -1,0 +1,8 @@
+# Ignore bin folder
+/bin/
+
+# Ignore other files or folders
+*.log
+*.exe
+/obj/
+*.wav
